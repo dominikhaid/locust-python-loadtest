@@ -1,9 +1,10 @@
-# LOCUST LOAD AND STRESSTEST
+# LOCUST LOADTEST
 
 ## DESCRIPTION
 
 Write individual load and stress tests for your webservices. Locust will created
-a detailed repot. You can run Locust in headless mode or via WebUi
+a detailed repot. You can run Locust in headless mode or via WebUi, For more
+information visit https://locust.io/
 
 ## INSTALL
 
