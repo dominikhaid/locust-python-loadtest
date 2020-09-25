@@ -1,6 +1,6 @@
 # LOCUST LOADTEST
 
-Write individual loadtests. You can run Locust in headless mode or via Webview
+Write individual loadtests. You can run Locust in headless mode or via webview
 visit https://locust.io/
 
 ## INSTALL
