@@ -1,10 +1,7 @@
 # LOCUST LOADTEST
 
-## DESCRIPTION
-
-Write individual load and stress tests for your webservices. Locust will created
-a detailed repot. You can run Locust in headless mode or via WebUi, For more
-information visit https://locust.io/
+Write individual loadtests. You can run Locust in headless mode or via Webview
+visit https://locust.io/
 
 ## INSTALL
 
@@ -12,13 +9,9 @@ information visit https://locust.io/
 
 1. install python3
    https://docs.python-guide.org/starting/install3/linux/#install3-linux
-2. install pip3 package manager
-   > sudo apt install python3-pip
-3. install locust
-   > pip3 install locust
-4. check installation
-   > locust -V
-5. edit locust.conf for basic configuration
-6. edit test.py in /loucstfiles
-7. run test
-   > locust
+2. sudo apt install python3-pip
+3. pip3 install locust
+4. locust -V
+5. edit locust.conf
+6. edit test.py
+7. locust --config=headless.conf
